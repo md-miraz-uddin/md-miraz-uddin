@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @md-miraz-uddin
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently Exploring Vue JS  
+- 🌱 I’m currently Exploring PHP Laravel  
 - 📫 Email me at mirazuddin0623@gmail.com
 
 <!---
